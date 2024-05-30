@@ -1,4 +1,4 @@
-# Kata du Bowling
+# Kata du Numeral to Roman
 
 ## Pour commencer
 
