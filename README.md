@@ -72,6 +72,7 @@ Les Romains écrivaient leurs nombres en utilisant des combinaisons des lettres 
 | 100    | C       |
 | 500    | D       |
 | 1000   | M       |
+
 Initialement, le système des chiffres romains consistait à exprimer le nombre en termes du symbole le plus approprié qui pouvait être utilisé.
 
 Pour commencer, pour les nombres de 1 à 4, nous utiliserions le symbole 'I' en multiples pour représenter le nombre :
@@ -82,11 +83,13 @@ Pour commencer, pour les nombres de 1 à 4, nous utiliserions le symbole 'I' en 
 | 2      | II      |
 | 3      | III     |
 | 4      | IV      |
+
 Lorsque les nombres atteignaient 5, nous utilisions 'V' car ce symbole était le moyen le plus efficace de représenter le nombre.
 
 | Nombre | Numéral |
 |--------|---------|
 | 5      | V       |
+
 Pour les entiers supérieurs à 5, une nouvelle règle est entrée en vigueur : lorsque des symboles 'plus petits' sont ajoutés une ou plusieurs fois derrière le symbole 'plus grand', ils sont considérés comme ajoutés à la valeur représentant le symbole plus grand.
 
 | Nombre | Numéral |
@@ -95,6 +98,7 @@ Pour les entiers supérieurs à 5, une nouvelle règle est entrée en vigueur : 
 | 7      | VII     |
 | 8      | VIII    |
 | 9      | VIIII   |
+
 Ainsi, la séquence initiale de chiffres romains pour les entiers de 1 à 9 était la suivante :
 
 | Nombre | Numéral |
@@ -108,6 +112,7 @@ Ainsi, la séquence initiale de chiffres romains pour les entiers de 1 à 9 éta
 | 7      | VII     |
 | 8      | VIII    |
 | 9      | VIIII   |
+
 Cependant, comme vous l'avez peut-être remarqué, les nombres pour 4 et 9 ne semblent pas corrects. Mais la formation originale des numéraux était celle-ci (même certaines horloges affichent encore IIII pour 4). Mais cela a créé des problèmes car les gens confondaient constamment III avec IIII et VIII avec VIIII, une règle supplémentaire a été développée.
 
 Pour des nombres comme 4 et 9, le symbole plus petit (I) est préfixé par le symbole plus grand (V ou 5 pour le nombre 4, et X représentant 10 pour le nombre 9). Lorsque le symbole plus petit apparaît avant le symbole plus grand, il est considéré comme soustrait du symbole plus grand.
@@ -127,6 +132,7 @@ Par conséquent, la liste des chiffres romains pour 1 à 9 est modifiée comme s
 | 7      | VII     |
 | 8      | VIII    |
 | 9      | IX      |
+
 Parce que le système romain suit un système de notation décimale, les mêmes règles s'appliquent pour l'ordre suivant : unités de 10. Dans ce cas, utilisez les symboles, 'X' pour 10, 'L' pour cinquante et 'C' pour cent.
 
 | Nombre | Numéral |
@@ -140,6 +146,7 @@ Parce que le système romain suit un système de notation décimale, les mêmes 
 | 70     | LXX     |
 | 80     | LXXX    |
 | 90     | XC      |
+
 Pour l'ordre décimal suivant, utilisez à nouveau les mêmes règles avec 'C' pour 100, 'D' pour 500 et 'M' pour 1000
 
 | Nombre | Numéral |
@@ -153,6 +160,7 @@ Pour l'ordre décimal suivant, utilisez à nouveau les mêmes règles avec 'C' p
 | 700    | DCC     |
 | 800    | DCCC    |
 | 900    | CM      |
+
 (Comme il n'y a pas de symboles plus élevés que 'M' (1000) le motif s'arrête ici, et généralement les chiffres romains ne considèrent pas les nombres supérieurs à quelques milliers)
 
 Il y avait certaines règles que les numéraux suivent qui doivent être observées :
