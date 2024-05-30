@@ -1,0 +1,40 @@
+{
+  "name": "kata-roman-numerals",
+  "version": "1.0.0",
+  "description": "Programmation orientée vers les tests, convertisseur d'entier en chiffre romain",
+  "scripts": {
+    "build": "rimraf ./dist && tsc",
+    "dev": "nodemon",
+    "lint": "eslint . --ext .ts",
+    "lint:fix": "eslint . --ext .ts --fix",
+    "format": "prettier --ignore-path .gitignore --write \"./src/**/*.+(js|ts|json)\"",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxds-lyon/Kata-RomanNumerals"
+  },
+  "author": "max-ds-lyon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxds-lyon/Kata-RomanNumerals/issues"
+  },
+  "homepage": "https://github.com/maxds-lyon/Kata-RomanNumerals#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.2",
+    "@typescript-eslint/eslint-plugin": "^5.60.1",
+    "@typescript-eslint/parser": "^5.60.1",
+    "eslint": "^8.43.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-jest": "^27.2.2",
+    "eslint-plugin-prettier": "^4.2.1",
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22",
+    "prettier": "^2.8.8",
+    "rimraf": "^5.0.1",
+    "ts-jest": "^29.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.5"
+  }
+}
